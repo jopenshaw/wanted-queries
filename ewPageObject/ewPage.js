@@ -18,7 +18,8 @@ module.exports = {
         DLStateInput: 'input[name="olsInput"]',
         DLExpireDate: 'input[name="olyInput"]',
         QueryResult: 'span[name="queryBody"]',
-        QueryError: 'span[name="queryTitle"]', 
+        QueryError: 'span[name="queryTitle"]',
+        Error: '#errorList',
     }
 
-    }
+}
