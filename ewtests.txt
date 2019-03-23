@@ -1,0 +1,1 @@
+This is where I will store the information for my automated tests for the Enter Wanted application.
